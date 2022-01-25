@@ -1,1 +1,1 @@
-# zero_day
+# only allowed one time
